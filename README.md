@@ -2,7 +2,8 @@
 
 ## I am an aspring software engineer who likes to solve problems! Most of them being bugs I've created, but I thoroughly enjoy the hunt.
 
-### I hope you enjoy checking out the project. I'm always open to feedback
+### I hope you enjoy checking out the project. I'm always open to feedback!
+
 
 <!--
 **FarhadK2022/FarhadK2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
