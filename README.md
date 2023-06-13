@@ -1,11 +1,11 @@
-# Hi there my name is Farhad Koushan
+# Hi there! My name is Farhad Koushan
 
-## I am an aspring software engineer who likes to solve problems! Most of them being bugs I've created, but I thoroughly enjoy the hunt.
+## I am a Software Engineer who likes to solve problems! Most of them being bugs I've created, but I thoroughly enjoy the hunt.
 
-### I hope you enjoy checking out some of my projects!
+### I hope you enjoy checking out some of my projects! My dog thinks they're dope but that they cut into his walk time.
 
 
-<!--
+<!-- 
 **FarhadK2022/FarhadK2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
