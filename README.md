@@ -1,8 +1,4 @@
-# Hi there! My name is Farhad Koushan
-
-## I am a Software Engineer who likes to solve problems and thoroughly enjoys the hunt!
-
-### I hope you enjoy checking out some of my projects; My dog thinks they're dope but that they cut into his walk time.
+Hi
 
 
 <!-- 
